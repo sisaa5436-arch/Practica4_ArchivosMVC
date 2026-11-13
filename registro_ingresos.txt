@@ -1,0 +1,8 @@
+# Datos ficticios para probar la práctica
+$12.50 | ana.01@example.com | cédula: 0000000001
+0000000002 | 7,75 USD | correo: luis@example.org
+22 dólares | 0000000003 | elena+prueba@example.net
+correo: prueba@example.com | cédula: 123456789 | 100 USD
+$9 | correo: mal@dominio | cédula: 01234567890
+0000000006 | monto: -5 | prueba@example.com
+correo: sin-arroba | cédula: 0000000007 | monto: cero
